@@ -1,0 +1,14 @@
+.sudoku_table {
+	width: 1025px;
+	margin: auto;
+	text-align: center;
+}
+
+.sudoku_table .sudoku_input {
+	text-align: center;
+	width: 100px;
+}
+
+.sudoku_table .sudoku_input_highlight {
+	border-color: rgb(169, 68, 66);
+}
