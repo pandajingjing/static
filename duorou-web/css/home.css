@@ -1,0 +1,15 @@
+.grid {
+	margin: 0 auto;
+}
+
+.grid-item {
+	width: 246px;
+	margin-bottom: 10px;
+}
+
+.page-load-status {
+  padding-top: 20px;
+  border-top: 1px solid #DDD;
+  text-align: center;
+  color: #777;
+}

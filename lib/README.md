@@ -1,6 +1,6 @@
 # static-lib
 
-当前最新版本 V0.2
+当前最新版本 V0.3
 
 基础静态资源,负责引用jquery,bootstrap各版本的文件以及相应的各类控件所需要的文件
 
@@ -35,9 +35,13 @@ class me extends 码畜
 ```
 
 ## change log
+- 20171121 V0.3
+	- 1.增加infinitescroll(3.0.2)类库
+	- 2.增加masonry(4.2.0)类库
+	- 3.调整目录结构,根据版本区分文件和文件夹
 - 20170410 V0.2
 	- 1.调整目录结构,增加控件或类库的文件夹
-	- 2.增加syntaxhighlighter类库
+	- 2.增加syntaxhighlighter(3.0.83)类库
 - 20170204 V0.1
 	- 1.定义仓库内容
 	- 2.创建基本目录结构
