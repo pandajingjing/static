@@ -1,4 +1,4 @@
-# static-blank-web
+# static-blank_web
 
 业务频道静态资源,负责引用业务频道的文件
 
