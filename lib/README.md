@@ -35,6 +35,8 @@ class me extends 码畜
 ```
 
 ## change log
+- 20171226 V0.4
+	- 1.增加ace(1.4.0)套装
 - 20171121 V0.3
 	- 1.增加infinitescroll(3.0.2)类库
 	- 2.增加masonry(4.2.0)类库

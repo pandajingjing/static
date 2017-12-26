@@ -1,0 +1,20 @@
+.pagecontent {
+	padding: 15px;
+	border-radius: 6px;
+	border: 1px solid #e7e7e7;
+	margin-top: 70px;
+}
+
+.footer {
+	background-color: #f8f8f8;
+	border-style: solid;
+	border-color: #e7e7e7;
+	border-width: 1px 0px 0px;
+	margin-top: 20px;
+	min-height: 50px;
+}
+
+.footerinfo {
+	margin: 15px 0px;
+	text-align: center;
+}
