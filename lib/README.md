@@ -1,6 +1,6 @@
 # static-lib
 
-当前最新版本 V0.3
+当前最新版本 V0.4.1
 
 基础静态资源,负责引用jquery,bootstrap各版本的文件以及相应的各类控件所需要的文件
 
@@ -35,6 +35,8 @@ class me extends 码畜
 ```
 
 ## change log
+- 20180223 V0.4.1
+	- 1.更新bootstrap-datetimepicker
 - 20171226 V0.4
 	- 1.增加ace(1.4.0)套装
 - 20171121 V0.3
