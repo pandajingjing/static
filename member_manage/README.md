@@ -1,4 +1,4 @@
-# static-duorou_manage
+# static-member_manage
 
 业务频道静态资源,负责引用业务频道的文件
 
